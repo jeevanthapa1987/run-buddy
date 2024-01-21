@@ -12,3 +12,5 @@ https://github.com/jeevanthapa1987/run-buddy
 
 ## Contribution
 Made with ❤️ by [Jeevan Thapa]
+
+### ©️2019 Run Buddy, Inc 
