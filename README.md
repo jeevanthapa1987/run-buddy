@@ -8,7 +8,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-https://github.com/jeevanthapa1987/run-buddy
+https://jeevanthapa1987.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by [Jeevan Thapa]
